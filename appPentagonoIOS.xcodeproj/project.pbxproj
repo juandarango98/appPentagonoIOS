@@ -141,7 +141,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 69FBA36E2439A80400C6ECA2 /* Build configuration list for PBXProject "PentagooWCoreData" */;
+			buildConfigurationList = 69FBA36E2439A80400C6ECA2 /* Build configuration list for PBXProject "appPentagonoIOS" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -359,7 +359,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		69FBA36E2439A80400C6ECA2 /* Build configuration list for PBXProject "PentagooWCoreData" */ = {
+		69FBA36E2439A80400C6ECA2 /* Build configuration list for PBXProject "appPentagonoIOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				69FBA3882439A80900C6ECA2 /* Debug */,
